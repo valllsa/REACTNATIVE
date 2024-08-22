@@ -17,7 +17,6 @@ const singUp = () => {
   const [isSubmitting, setIsSubmitting] = useState (false)
 
   const submit = () =>{
-    createUser();
   }
 
   return (
